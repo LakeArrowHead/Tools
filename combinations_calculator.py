@@ -7,7 +7,7 @@ def take_input():
     
     """
     Asks user for input.
-    :rtype: 
+    :rtype: tuple
     """
 
     n = int(input("n = "))
